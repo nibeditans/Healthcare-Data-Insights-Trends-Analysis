@@ -1,4 +1,4 @@
-# 🏥 Healthcare Data Insights & Trends Analysis
+# Healthcare Data Insights & Trends Analysis
 
 This project performs exploratory data analysis (EDA) on a synthetic healthcare dataset using Python. Although the dataset lacks meaningful real-world insights due to its balanced and likely synthetic nature, the project highlights core data analysis workflows, including preprocessing, feature engineering, visualization, and an experimental machine learning attempt.
 
@@ -19,7 +19,7 @@ This project performs exploratory data analysis (EDA) on a synthetic healthcare 
 
 ---
 
-## 🧪 Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Python**  
 - **NumPy**, **Pandas** – Data manipulation and preprocessing  
@@ -29,7 +29,7 @@ This project performs exploratory data analysis (EDA) on a synthetic healthcare 
 
 ---
 
-## 🔍 Project Phases
+## Project Phases
 
 ### 1. Data Cleaning & Preprocessing
 - Verified datatypes, parsed datetime columns
@@ -57,7 +57,7 @@ This project performs exploratory data analysis (EDA) on a synthetic healthcare 
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 > While the dataset lacked real-world insights from a data analysis perspective, its synthetic structure made it ideal for practicing core DA workflows and ML experimentation. The project showcased EDA, feature engineering, and a full end-to-end analysis pipeline.
 
