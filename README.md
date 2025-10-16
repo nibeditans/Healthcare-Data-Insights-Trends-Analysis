@@ -63,4 +63,4 @@ This project performs exploratory data analysis (EDA) on a synthetic healthcare 
 
 ---
 
-Wanna explored more Projects and Fun Programs? Check out the [Data Analytics Projects Collection](https://github.com/nibeditans/A-Few-Data-Analytics-Projects) Page.
+Wanna explore more Projects and Fun Programs? Check out the [Data Analytics Projects Collection](https://github.com/nibeditans/A-Few-Data-Analytics-Projects) Page.
