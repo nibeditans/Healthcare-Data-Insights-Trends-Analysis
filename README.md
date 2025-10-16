@@ -62,3 +62,5 @@ This project performs exploratory data analysis (EDA) on a synthetic healthcare 
 > While the dataset lacked real-world insights from a data analysis perspective, its synthetic structure made it ideal for practicing core DA workflows and ML experimentation. The project showcased EDA, feature engineering, and a full end-to-end analysis pipeline.
 
 ---
+
+Wanna explored more Projects and Fun Programs? Check out the [Data Analytics Projects Collection](https://github.com/nibeditans/A-Few-Data-Analytics-Projects) Page.
